@@ -1,6 +1,6 @@
 # Hi, I'm Athith Prabahar 👋
 
-I'm a Software Engineering student interested in backend development, full-stack applications, and building software that solves real problems.
+I'm a 3rd year Software Engineering student interested in backend development, full-stack applications, and building software that solves real problems.
 
 I'm currently focused on improving my development skills through university projects and personal projects while working toward a career in software development.
 
